@@ -119,7 +119,7 @@ attributes:
 
 ---
 
-<img src="https://github-profile-trophy.vercel.app/?username=Cioscos&theme=radical&no-frame=true&no-bg=true&column=6&margin-w=15&margin-h=15" alt="Trophies"/>
+<img src="https://github-trophies.vercel.app/?username=Cioscos&theme=radical&no-frame=true&no-bg=true&column=6&margin-w=15&margin-h=15" alt="Trophies"/>
 
 ---
 
@@ -159,15 +159,14 @@ attributes:
 ---
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│  🐉 D&D 5e Enthusiast — Chaotic Good, obviously        │
-│  🤖 AI/ML Tinkerer — Local LLMs on RTX 4080            │
-│  🎵 Audio Nerd — Built a graphic equalizer from scratch │
-│  🎭 DeepFake Researcher — GPEN & DFL tools             │
-│  🏰 Arctic Code Vault Contributor                       │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────────────────┐
+│                                                           │
+│  🐉 D&D 5e Player                                        │
+│  🤖 AI/ML Tinkerer — Local LLMs on RTX 4080              │
+│  🎵 Audio Nerd — Built a graphic equalizer from scratch  │
+│  🎭 DeepFake software EX Contributor — GPEN & DFL tools  │
+│                                                           │
+└──────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -182,18 +181,6 @@ attributes:
 <a href="https://github.com/Cioscos">
   <img src="https://img.shields.io/badge/👾_GITHUB-00f0ff?style=for-the-badge&logoColor=white" alt="GitHub"/>
 </a>
-
----
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║  "In a world of 0s and 1s, be the one who rolls a nat 20."      ║
-║                                                                  ║
-║                          — Cioscos, probably                     ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=100&section=footer" width="100%"/>
 
