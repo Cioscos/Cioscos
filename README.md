@@ -99,15 +99,15 @@ attributes:
 ---
 
 <a href="https://github.com/Cioscos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cioscos&show_icons=true&theme=radical&bg_color=0d1117&title_color=ff006e&text_color=c9d1d9&icon_color=00f0ff&border_color=ff006e&ring_color=ff006e&hide_border=false" alt="Cioscos Stats"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Cioscos&show_icons=true&theme=radical&bg_color=0d1117&title_color=ff006e&text_color=c9d1d9&icon_color=00f0ff&border_color=ff006e&ring_color=ff006e&hide_border=false" alt="Cioscos Stats"/>
 </a>
 <a href="https://github.com/Cioscos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cioscos&layout=compact&theme=radical&bg_color=0d1117&title_color=ff006e&text_color=c9d1d9&border_color=ff006e&hide_border=false&langs_count=8" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Cioscos&layout=compact&theme=radical&bg_color=0d1117&title_color=ff006e&text_color=c9d1d9&border_color=ff006e&hide_border=false&langs_count=8" alt="Top Languages"/>
 </a>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cioscos&theme=radical&background=0d1117&ring=ff006e&fire=00f0ff&currStreakLabel=00f0ff&sideLabels=ff006e&border=ff006e" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=Cioscos&theme=radical&background=0d1117&ring=ff006e&fire=00f0ff&currStreakLabel=00f0ff&sideLabels=ff006e&border=ff006e" alt="GitHub Streak"/>
 
 <br/>
 
@@ -128,16 +128,16 @@ attributes:
 ---
 
 <a href="https://github.com/Cioscos/GPEN-Cioscos">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cioscos&repo=GPEN-Cioscos&theme=radical&bg_color=0d1117&title_color=ff006e&icon_color=00f0ff&text_color=c9d1d9&border_color=ff006e" alt="GPEN-Cioscos"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Cioscos&repo=GPEN-Cioscos&theme=radical&bg_color=0d1117&title_color=ff006e&icon_color=00f0ff&text_color=c9d1d9&border_color=ff006e" alt="GPEN-Cioscos"/>
 </a>
 <a href="https://github.com/Cioscos/DFL-Dataset-creator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cioscos&repo=DFL-Dataset-creator&theme=radical&bg_color=0d1117&title_color=ff006e&icon_color=00f0ff&text_color=c9d1d9&border_color=ff006e" alt="DFL-Dataset-creator"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Cioscos&repo=DFL-Dataset-creator&theme=radical&bg_color=0d1117&title_color=ff006e&icon_color=00f0ff&text_color=c9d1d9&border_color=ff006e" alt="DFL-Dataset-creator"/>
 </a>
 <a href="https://github.com/Cioscos/DnD-Adventurers-Tome-TGBot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cioscos&repo=DnD-Adventurers-Tome-TGBot&theme=radical&bg_color=0d1117&title_color=ff006e&icon_color=00f0ff&text_color=c9d1d9&border_color=ff006e" alt="DnD Bot"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Cioscos&repo=DnD-Adventurers-Tome-TGBot&theme=radical&bg_color=0d1117&title_color=ff006e&icon_color=00f0ff&text_color=c9d1d9&border_color=ff006e" alt="DnD Bot"/>
 </a>
 <a href="https://github.com/Cioscos/easy-graphic-equalizer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cioscos&repo=easy-graphic-equalizer&theme=radical&bg_color=0d1117&title_color=ff006e&icon_color=00f0ff&text_color=c9d1d9&border_color=ff006e" alt="Equalizer"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Cioscos&repo=easy-graphic-equalizer&theme=radical&bg_color=0d1117&title_color=ff006e&icon_color=00f0ff&text_color=c9d1d9&border_color=ff006e" alt="Equalizer"/>
 </a>
 
 ---
@@ -151,8 +151,6 @@ attributes:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cioscos/Cioscos/output/github-snake.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/Cioscos/Cioscos/output/github-snake-dark.svg" />
 </picture>
-
-> *⚠️ Per attivare lo snake, aggiungi la [GitHub Action snake](https://github.com/Platane/snk) al tuo repo `Cioscos/Cioscos`*
 
 ---
 
