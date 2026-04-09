@@ -52,12 +52,12 @@ status:
   side_quest: "D&D 5e campaigns & deep learning experiments"
 
 attributes:
-  STR: ██████████░░░░ 72%   # Backend & Systems
-  DEX: █████████░░░░░ 65%   # Frontend & UI
-  CON: ████████████░░ 85%   # Problem Solving
-  INT: ███████████░░░ 80%   # Architecture & Design
-  WIS: █████████░░░░░ 65%   # DevOps & Cloud
-  CHA: ████████░░░░░░ 57%   # Documentation 😅
+  STR: "######========  72%"   # Backend & Systems
+  DEX: "###===========  30%"   # Frontend & UI
+  CON: "#########=====  85%"   # Problem Solving
+  INT: "########======  80%"   # Architecture & Design
+  WIS: "######========  65%"   # DevOps & Cloud
+  CHA: "#####=========  57%"   # Documentation 😅
 ```
 
 <div align="center">
@@ -91,11 +91,6 @@ attributes:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00f0ff)
 ![GraphQL](https://img.shields.io/badge/GraphQL-0d1117?style=for-the-badge&logo=graphql&logoColor=ff006e)
 
-#### `// AI/ML AUGMENTATIONS`
-
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=ff006e)
-![Ollama](https://img.shields.io/badge/Ollama-0d1117?style=for-the-badge&logo=ollama&logoColor=00f0ff)
-![NVIDIA](https://img.shields.io/badge/RTX_4080-0d1117?style=for-the-badge&logo=nvidia&logoColor=76b900)
 
 ---
 
