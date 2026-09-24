@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Claudio Ciccarone — Cioscos</title>
+  <desc id="desc">Software developer in Bari, Italy. Teal circuit lines and a geometric gold twenty-sided die.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F4F8FA"/><stop offset="1" stop-color="#FFFFFF"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="0" cy="0" r="1" gradientTransform="translate(988 171) scale(280)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#BDE7DF" stop-opacity="0.55"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#93B3C3" stroke-opacity="0.06"/>
+    </pattern>
+  </defs>
+  <rect x="1" y="1" width="1198" height="358" rx="18" fill="url(#background)" stroke="#CCD9E1"/>
+  <rect x="2" y="2" width="1196" height="356" rx="17" fill="url(#grid)"/>
+  <rect x="2" y="2" width="1196" height="356" rx="17" fill="url(#halo)"/>
+  <path d="M58 59H106" stroke="#17695C" stroke-width="3"/>
+  <text x="122" y="65" fill="#17695C" font-family="Consolas, monospace" font-size="15" letter-spacing="3">CIOSCOS / DEVELOPER</text>
+  <text x="56" y="144" fill="#182C3D" font-family="Segoe UI, Arial, sans-serif" font-size="55" font-weight="700" letter-spacing="-1.5">Claudio Ciccarone</text>
+  <text x="59" y="190" fill="#425A6D" font-family="Segoe UI, Arial, sans-serif" font-size="23">Backend systems. Applied AI. Personal projects.</text>
+  <path d="M59 226H696" stroke="#CCD9E1"/>
+  <text x="59" y="266" fill="#17695C" font-family="Consolas, monospace" font-size="16" letter-spacing="1">PYTHON / JAVA / CURIOSITY</text>
+  <text x="59" y="310" fill="#52697B" font-family="Segoe UI, Arial, sans-serif" font-size="16">Bari, Italy</text>
+  <g stroke="#17695C" stroke-opacity="0.25" stroke-width="1.5">
+    <path d="M780 92H844L876 124M776 272H848L882 238M1067 123L1100 90H1150M1071 237L1104 270H1150"/>
+    <circle cx="776" cy="92" r="4"/><circle cx="772" cy="272" r="4"/>
+    <circle cx="1154" cy="90" r="4"/><circle cx="1154" cy="270" r="4"/>
+  </g>
+  <g stroke="#95702C" stroke-width="1.7" stroke-linejoin="round">
+    <path d="M974 56L1083 117L1083 239L974 301L865 239L865 117Z" fill="#95702C" fill-opacity="0.035"/>
+    <path d="M974 56L917 145L1031 145ZM865 117L917 145L865 239ZM1083 117L1031 145L1083 239ZM917 145L974 246L1031 145ZM865 239L974 246L974 301ZM1083 239L974 246"/>
+    <path d="M865 117L974 56L1083 117M917 145L865 239M1031 145L1083 239"/>
+  </g>
+  <text x="974" y="191" text-anchor="middle" fill="#795920" font-family="Consolas, monospace" font-size="28">20</text>
+  <path d="M866 327H1082" stroke="#CCD9E1"/>
+  <text x="974" y="345" text-anchor="middle" fill="#52697B" font-family="Consolas, monospace" font-size="10" letter-spacing="3">IDEAS INTO IMPLEMENTATION</text>
+</svg>
+
